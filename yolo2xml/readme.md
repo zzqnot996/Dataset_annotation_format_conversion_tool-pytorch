@@ -30,12 +30,14 @@
     ymax_val = int((bbox_height) * image_height)  
 '''
 
-'''
 yolov5
+
     |____data
+    
             |__images
+            
             |__labels
-'''
+
             
 ## check_convert_yolov5_to_xml.py
 
