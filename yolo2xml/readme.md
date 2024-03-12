@@ -11,6 +11,7 @@
 具体是哪一种 只要更改 xmin ymin xmax ymax 的计算方式即可
 
 '''
+
     # 更改 xmin ymin xmax ymax 的计算方式 
     xmin = ET.SubElement(bndbox, "xmin")
     ymin = ET.SubElement(bndbox, "ymin")
