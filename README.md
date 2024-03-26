@@ -1,2 +1,3 @@
 # Dataset_annotation_format_conversion_tool-pytorch
-这是关于在深度学习中各个数据集注释文件的格式转换代码
+
+This is about the format conversion code for annotation files for individual datasets in deep learning！
